@@ -1,5 +1,5 @@
 # ViTs on Artworks
-Popular vision models try to gues the genre of the famous artists paintings.
+Popular vision models try to guess the genre of the famous artists paintings.
 ### Models
 - [llava-v1.5-7b](https://huggingface.co/llava-hf/llava-v1.5-7b-hf)
 - [llava-v1.6-mistral-7b](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf)
